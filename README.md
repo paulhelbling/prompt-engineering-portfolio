@@ -1,5 +1,3 @@
-# prompt-engineering-portfolio
-Prompt Engineering Projects and Examples by Paul Helbling
 # 👋 Hi, I'm Paul Helbling
 
 Welcome to my GitHub! I'm a **Prompt Engineer** and **Data Analyst** transitioning from 30+ years in retail leadership to building smart, AI-powered business solutions.
@@ -21,8 +19,18 @@ Welcome to my GitHub! I'm a **Prompt Engineer** and **Data Analyst** transitioni
 | 📝 [Retail SOP Generator](./prompt-engineering-portfolio/retail-sop-generator.md) | Converts messy training notes into structured, clear SOPs using LLMs |
 | 📊 [BI Dashboard Summary Assistant](./prompt-engineering-portfolio/bi-dashboard-summary.md) | Summarizes KPIs and dashboard data for executive-level readability |
 | 📄 [Resume Tailoring Bot](./prompt-engineering-portfolio/resume-tailoring-bot.md) | Rewrites resumes using job descriptions and ATS-friendly prompts |
+| 🌌 [TON 618 Scientific Explainer](./prompt-engineering-portfolio/ton618-scientific-explainer.md) | Simulates expert-level cosmologist explaining black hole phenomena |
+| 🧑‍🏫 [TON 618 Student-Level Explainer](./prompt-engineering-portfolio/ton618-explainer-for-students.md) | Uses prompt adaptation to teach 10th graders about TON 618 in simple terms |
 
-> More projects coming soon!
+---
+
+## 🧩 Prompting Techniques Demonstrated
+
+- 🧠 Role-based expert simulation (e.g., Cosmologist, Career Coach)
+- 🗣️ Tone & complexity adjustment (professional → student)
+- 🧾 Structured output formatting (headings, bullet points, summaries)
+- 🎯 Audience-specific instruction and analogies
+- 🔗 Prompt chaining and refinement
 
 ---
 
@@ -49,7 +57,7 @@ Welcome to my GitHub! I'm a **Prompt Engineer** and **Data Analyst** transitioni
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pauldhelbling)
 - 📬 [Email Me](mailto:PDHelbling71@gmail.com)
-- 🧠 [Coursera Profile](https://www.coursera.org/user/xxxxxxxx) ← *[Replace with your actual profile link]*
+- 🧠 [Coursera Profile](https://www.coursera.org/learner/paul-helbling-1284)
 
 ---
 
